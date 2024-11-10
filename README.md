@@ -1,6 +1,6 @@
 ## ✨ Website ucapan ulang tahun
 
-[demo](https://hbd-jubed.netlify.app/)
+[demo](https://learnwithsuryaa.github.io/SpecialDay/)
 
 ## 🚀 Quick start
 
